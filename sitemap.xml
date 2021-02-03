@@ -3,11 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/post/</loc>
+    <lastmod>2021-02-02T21:57:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/testpost/</loc>
+    <lastmod>2021-02-02T21:57:25-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-02-02T21:57:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2021-02-02T21:49:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-how-tos/</loc>
+    <lastmod>2021-02-02T21:49:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jam-stack/</loc>
+    <lastmod>2021-02-02T21:49:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/static-site-generators/</loc>
+    <lastmod>2021-02-02T21:49:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-02T21:49:09-05:00</lastmod>
   </url>
   
 </urlset>

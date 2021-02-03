@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writings</title>
-    <link>/</link>
-    <description>Recent content on Writings</description>
+    <title>Static Site Generators on Writings</title>
+    <link>/tags/static-site-generators/</link>
+    <description>Recent content in Static Site Generators on Writings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 01:35:25 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testpost</title>
-      <link>/testpost/</link>
-      <pubDate>Tue, 02 Feb 2021 01:35:25 -0500</pubDate>
-      
-      <guid>/testpost/</guid>
-      <description>Hello world. Let&amp;rsquo;s see if this works!
-$f(x) = x^2$
-Above there should be math&amp;hellip;.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 Jan 2021 05:23:18 -0500</lastBuildDate><atom:link href="/tags/static-site-generators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo How-tos</title>
       <link>/hugo-how-tos/</link>
